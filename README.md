@@ -1,19 +1,19 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Webpack - Boilerplate
 
-> Description the project.
-
+> In this exercise I builded a simple yet powerful webpack boilerplate, which I can later use as a starting point in my projects. I worked with the webpack official guides.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- JavaScript
+- Webpack
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+Not required.
 
 
 ## Getting Started
@@ -26,37 +26,41 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Git Bash or equivalent tool to clone the repository to your hard drive.
+Browser to see the results.
+Have installed a version of Node.js
+
 ### Setup
+
+Prepare a folder in your hard drive to copy the files to.
 
 ### Install
 
+Open Git Bash and execute the following commands:
+- cd [your_local_folder]
+- git clone https://github.com/marurevi/Webpack-boilerplate.git
+
 ### Usage
 
-### Run tests
+Inicialize the package.json with the comand: npm init -y
+Then change the files in ./src
+Finally write npm start on the command line.
 
 ### Deployment
 
-
+No needed.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mariana Revilla Lérida**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@marurevi](https://github.com/marurevi)
+- Twitter: [@MaruRevilla](https://twitter.com/MaruRevilla)
+- LinkedIn: [Mariana-Revilla-Lérida](https://linkedin.com/in/mariana-revilla-lérida-a12aba143)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -64,8 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- Microverse
+- Webpack official page
 - etc
 
 ## 📝 License
